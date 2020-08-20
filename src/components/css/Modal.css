@@ -1,0 +1,40 @@
+.modal__buttons {
+  display: flex;
+  margin-top: 40px;
+}
+
+.modal__closeButton {
+  text-decoration: none;
+  background: #efefef;
+  color: black;
+  border: solid 1px #555;
+  border-radius: 5px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  padding: 10px 25px;
+  margin: 0 25px;
+}
+
+.modal__submitButton {
+  text-decoration: none;
+  background: #333;
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  padding: 10px 25px;
+  margin: 0 25px;
+  border-radius: 5px;
+}
+
+.modal p {
+  margin: 10px 5px;
+  font-size: 1.5rem;
+}
+
+.modal h2 {
+  font-size: 2em;
+}
+
+.modal input {
+  font-size: 1.5rem;
+}
