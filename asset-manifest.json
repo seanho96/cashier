@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cashier/static/css/main.cef20ef0.chunk.css",
+    "main.js": "/cashier/static/js/main.90113d82.chunk.js",
+    "main.js.map": "/cashier/static/js/main.90113d82.chunk.js.map",
+    "runtime-main.js": "/cashier/static/js/runtime-main.768bf222.js",
+    "runtime-main.js.map": "/cashier/static/js/runtime-main.768bf222.js.map",
+    "static/js/2.3068ad67.chunk.js": "/cashier/static/js/2.3068ad67.chunk.js",
+    "static/js/2.3068ad67.chunk.js.map": "/cashier/static/js/2.3068ad67.chunk.js.map",
+    "index.html": "/cashier/index.html",
+    "precache-manifest.d2c3ca14498a6d7025b30efff65f3ee7.js": "/cashier/precache-manifest.d2c3ca14498a6d7025b30efff65f3ee7.js",
+    "service-worker.js": "/cashier/service-worker.js",
+    "static/css/main.cef20ef0.chunk.css.map": "/cashier/static/css/main.cef20ef0.chunk.css.map",
+    "static/js/2.3068ad67.chunk.js.LICENSE.txt": "/cashier/static/js/2.3068ad67.chunk.js.LICENSE.txt",
+    "static/media/bars-solid.svg": "/cashier/static/media/bars-solid.b3f49afd.svg",
+    "static/media/shopping-cart-solid.svg": "/cashier/static/media/shopping-cart-solid.8bf1af37.svg",
+    "static/media/times-solid.svg": "/cashier/static/media/times-solid.2c5552a1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.768bf222.js",
+    "static/js/2.3068ad67.chunk.js",
+    "static/css/main.cef20ef0.chunk.css",
+    "static/js/main.90113d82.chunk.js"
+  ]
+}
